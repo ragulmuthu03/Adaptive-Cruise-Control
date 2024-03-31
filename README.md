@@ -1,5 +1,3 @@
-# Adaptive-Cruise-Control
-This repo contains details and source code for project "Adaptive Cruise Control" in IOT
 # Adaptive Cruise Control
 
 This project focuses on the design and implementation of an Adaptive Cruise Control (ACC) system integrated with Internet of Things (IoT) technology using Tinkercad simulation platform. ACC is an advanced driver assistance system that automatically adjusts the speed of a vehicle to maintain a safe distance from the vehicle ahead, enhancing driving comfort and safety. IoT integration allows for real-time data exchange and control over the ACC system, making it more intelligent and responsive to dynamic driving conditions.
